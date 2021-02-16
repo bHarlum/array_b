@@ -1,0 +1,5 @@
+package arrayb
+
+func main() {
+
+}
